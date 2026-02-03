@@ -9,7 +9,7 @@ e anuncia o vencedor com base no maior número.
 
 ## Como executar
 
-1. Abra o arquivo `dicee.html` no navegador.
+1. Abra o arquivo `index.html` no navegador.
 2. Atualize a página para gerar novos valores nos dados.
 
 ## Estrutura do projeto
