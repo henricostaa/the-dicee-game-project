@@ -14,7 +14,7 @@ e anuncia o vencedor com base no maior número.
 
 ## Estrutura do projeto
 
-- `dicee.html`: marcação da página.
+- `index.html`: marcação da página.
 - `styles.css`: estilos visuais.
 - `index.js`: lógica do sorteio e atualização da interface.
 - `images/`: imagens dos dados.
