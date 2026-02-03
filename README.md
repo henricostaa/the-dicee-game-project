@@ -7,6 +7,10 @@ e anuncia o vencedor com base no maior número.
 
 - Navegador moderno (Chrome, Firefox, Edge, Safari, etc.)
 
+## Link do projeto
+
+[https://henricostaa.github.io/the-dicee-game-project/](https://henricostaa.github.io/the-dicee-game-project/)
+
 ## Como executar
 
 1. Abra o arquivo `index.html` no navegador.
