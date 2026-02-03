@@ -9,12 +9,12 @@ e anuncia o vencedor com base no maior número.
 
 ## Como executar
 
-1. Abra o arquivo `dicee.html` no navegador.
+1. Abra o arquivo `index.html` no navegador.
 2. Atualize a página para gerar novos valores nos dados.
 
 ## Estrutura do projeto
 
-- `dicee.html`: marcação da página.
+- `index.html`: marcação da página.
 - `styles.css`: estilos visuais.
 - `index.js`: lógica do sorteio e atualização da interface.
 - `images/`: imagens dos dados.
